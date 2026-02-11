@@ -3,7 +3,7 @@ game 'gta5'
 lua54 'yes'
 
 author 'KuleY'
-description 'Unity Cake Cut Script'
+description 'Free Cake Cut Script'
 version '1.0.0'
 
 shared_scripts {
@@ -22,3 +22,4 @@ dependencies {
     'qb-core',
     'ox_target'
 }
+
